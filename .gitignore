@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Output / generated
+video_frames/
+recognized_digits/
+
+# OS
+.DS_Store
